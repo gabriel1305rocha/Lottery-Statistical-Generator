@@ -22,6 +22,8 @@ def calcular_medias(arrays):
 
 # MEGA DA VIRADA: TODOS OS RESULTADOS DE 2005 A 2022; Fonte: https://galardians.com/todos-resultados-mega-da-virada/
 arrays_mega_da_virada = [
+    #2023
+    [24,56,33,48,21,41]
     #2022 
     [4,5,10,34,58,59],
     #2021 
